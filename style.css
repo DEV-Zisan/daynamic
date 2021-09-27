@@ -1,0 +1,166 @@
+
+/*start*/
+
+/*Font*/
+.top-menu{
+    font-family: 'Kaisei Opti', serif;
+}
+.top-menu .hader-menu{
+    background: #22c3a2;
+}
+.left-logo{}
+.left-logo h4{
+    margin-left: 20px;
+    color: white;
+   margin-top: 5px;
+}
+
+.right-side{
+    
+}
+.right-side ul{ 
+    list-style: none;
+}
+.right-side ul li{
+    display: inline-block;
+}
+.right-side ul li a{
+    display: block;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+.right-side ul li a:hover{
+    color: red;
+}
+
+/*baner*/
+.baner-text{
+    background-image: url(https://i.ibb.co/yf7pkDH/header-bg01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 170px 0;
+    margin-top: -5px;
+    color: white;
+    text-align: center;
+    font-family: 'Kaisei Opti', serif;
+}
+.baner-text{}
+.baner-text h1{}
+.baner-text strong{
+    display: block;
+    padding: 15px 0;
+    margin-bottom: 15px;
+}
+.baner-text button{
+    border: 2px solid white;
+    font-weight: 700;
+    padding: 7px 22px;
+}
+
+/*service-section*/
+.service-section{
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.service-section h2{
+    text-align: center;
+    font-weight: 600;
+}
+.service-section p{
+    text-align: center;
+}
+
+.service-item{
+    margin-top: 70px;
+}
+.service-item span{
+    text-align: center;
+    margin-left: 110px;
+    font-size: 35px;
+    color: #0dbf9b;
+}
+.service-item h4 {
+    text-align: center;
+    margin-top: 22px;
+    font-weight: 600;
+}
+/*about-section*/
+.about-section{
+ 
+}
+.about-section .hr{
+    width: 100%;
+    height: 2px;
+    background: #0dbf9b;
+}
+
+.about-section .h4{
+    margin-top: 50px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Kaisei Opti', serif;
+
+    
+}
+
+.blog-img img{
+    max-width: 100%;
+}
+.about-section .p{
+    text-align: center;
+    padding: 25px 0;
+}
+
+.blog-right{}
+.blog-right ul li{
+    list-style: none;
+}
+
+
+/*contact-section*/
+
+.contact-section{
+    margin-top: 100px;
+}
+.service-section .div-bg{
+    background-color: #f6f6f6;
+    padding: 100px 0;
+}
+
+.contact-section .contact-item{
+    margin-top: 25px;
+}
+
+.contact-section .contact-item span{
+    color: #0dbf9b;
+}
+
+/*footer-section*/
+.footer {
+    margin-top: -150px;
+}
+.footer-bg{
+    background-color: #0dbf9b;
+
+}
+.footer ul{
+    list-style: none;
+    list-style: none;
+}
+.footer ul li{
+    display: inline-block;
+}
+.footer ul li a{
+    display: block;
+    padding: 5px 8px;
+    line-height: 40px;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    border-style: ;
+    box-sizing: ;
+    float: ;
+}
